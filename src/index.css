@@ -1,0 +1,49 @@
+.pc-container{
+    background-color: #f2f2f2 !important;
+}
+
+.auth-form{
+    background-color: #f2f2f2 !important;
+}
+
+.text-secondary{
+    color: #3dbcec !important;
+}
+
+.mainhome{
+    background-color: #3dbcec;
+    height: 100vh;
+}
+.navbar{
+    background-color: #3dbcec !important;
+    height: 8vh;
+    box-shadow: none;
+    /* background-color: white!important; */
+}
+.mainhome .row{
+    height: 92vh;
+}
+
+/* .text-secondary {
+    color: #3dbcec  !important;
+} */
+
+.btn-primary{
+    color: white;
+    background-color: #3dbcec  !important;
+}
+
+.btn-secondary{
+    color: white;
+    background-color: #3dbcec  !important;
+}
+
+.pc-link.active{
+    color: black !important;
+    background-color: #f2f2f2;
+}
+
+.pc-link:hover{
+    color: black !important;
+    background-color: #f2f2f2 !important;
+}
